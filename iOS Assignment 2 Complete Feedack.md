@@ -1,0 +1,5 @@
+We have a detailed [Project 2 Feedback Guide](http://courses.codepath.org/snippets/ios_university/feedback_guides/project_2_feedback.md) which covers the best practices for implementing this assignment. Read through the feedback guide point-by-point to determine ways you might be able to improve your submission. While we won't be reviewing further revisions to this unit's submission anymore, you should consider going back and implementing these improvements as well. Keep in mind that one of the most important parts of iOS development is learning the correct patterns and conventions.
+
+Check out the [assignment grading page](https://courses.codepath.org/snippets/ios_university/grading) for a breakdown of how submissions are scored.
+
+If you have any technical questions about the project or concepts covered this week, post a question on our [Discussions Forum](https://discussions.codepath.org) and mark the question as type, "Curiosity". For general questions email us at, <support@codepath.org>.
